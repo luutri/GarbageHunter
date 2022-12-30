@@ -48,7 +48,7 @@
     "express": "^4.17.1",
     "json-2-csv": "^3.5.4",
     "jsonwebtoken": "^8.5.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "mongod": "^2.0.0",
     "mongoose": "^5.5.11",
     "mongoose-unique-validator": "^2.0.3",
